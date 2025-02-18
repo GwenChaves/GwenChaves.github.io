@@ -46,7 +46,7 @@ export default function Example() {
 
                     <div className="justify-self-center relative rounded-full mt-10 mb-4 px-3 py-1 backdrop-blur-sm bg-teal-400/10 text-sm/6 text-gray-200 ring-1 ring-teal-400/30 hover:ring-teal-400/90">
                         Currently seeking employment.{' '}
-                        <a href="/BenResume2024.pdf" target="blank" className="font-semibold text-teal-400">
+                        <a href="/Resume2025.pdf" target="blank" className="font-semibold text-teal-400">
                             <span aria-hidden="true" className="absolute inset-0" />
                             View Resume <span aria-hidden="true">&rarr;</span>
                         </a>
