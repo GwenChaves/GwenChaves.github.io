@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 25 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-1612,-719)">
+        <g id="Ship" transform="matrix(1,0,0,1,0,10)">
+            <g id="linetrace_color.svg" transform="matrix(1.0375,0,0,1.0375,980.206,874.926)">
+                <g id="Ship1" serif:id="Ship">
+                    <g id="linetrace_color.svg1" serif:id="linetrace_color.svg" transform="matrix(1,0,0,1,-1280,-720)">
+                        <clipPath id="_clip1">
+                            <rect x="0" y="0" width="2560" height="1440"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip1)">
+                            <g id="ship" transform="matrix(1.7109,0,0,1.7109,-86.4387,-218.282)">
+                                <g id="ship-shaded" serif:id="ship shaded">
+                                    <g id="ship1" serif:id="ship">
+                                        <g id="Shapes">
+                                        </g>
+                                        <g id="LINE" transform="matrix(1.0206,0.0233783,0.0233783,1.02653,-21.742,-24.6767)">
+                                            <g id="Lines">
+                                                <g id="LINE1" serif:id="LINE">
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="linetrace_color.svg2" serif:id="linetrace_color.svg">
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Switch">
+        </g>
+        <g id="scroll-indicator" serif:id="scroll indicator">
+        </g>
+        <g id="info2" transform="matrix(1.36265,0,0,1.36265,20.3649,351.05)">
+            <g id="accent">
+            </g>
+            <g id="accent1" serif:id="accent">
+            </g>
+            <g transform="matrix(1,0,0,1,791.094,-91.7886)">
+                <text x="323.883px" y="346.399px" style="font-family:'CookieCutterCulture', 'Cookie Cutter Culture';font-size:45.867px;fill:white;">T<tspan x="346.581px 368.719px 393.746px 416.6px 439.455px 444.84px 467.112px 489.631px 508.006px 512.944px 543.727px 564.364px 586.95px 592.47px 616.041px " y="346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px 346.399px ">echnical Artist</tspan></text>
+                <g transform="matrix(36.6933,0,0,36.6933,558.455,387.069)">
+                </g>
+                <text x="403.865px" y="387.069px" style="font-family:'CookieCutterCulture', 'Cookie Cutter Culture';font-size:36.693px;fill:white;">F<tspan x="420.948px 438.963px 442.913px 461.483px 476.47px 494.754px 511.246px 515.196px 533.372px " y="387.069px 387.069px 387.069px 387.069px 387.069px 387.069px 387.069px 387.069px 387.069px ">airfax VA</tspan></text>
+            </g>
+            <g transform="matrix(0.733866,0,0,0.733866,-210.22,-257.624)">
+                <g transform="matrix(1,-0,-0,1,1878.09,719)">
+                    <path d="M20.96,10.375C20.96,5.776 17.226,2.042 12.627,2.042C8.027,2.042 4.293,5.776 4.293,10.375C4.293,14.974 8.027,18.708 12.627,18.708C17.226,18.708 20.96,14.974 20.96,10.375Z" style="fill:none;stroke:white;stroke-width:2.08px;"/>
+                    <path d="M12.627,10.375L12.627,34.414" style="fill:none;stroke:white;stroke-width:2.08px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.733866,0,0,0.733866,-14.9451,-257.624)">
+                <rect x="1539.68" y="646.862" width="452.444" height="120.503" style="fill:none;"/>
+            </g>
+        </g>
+        <g id="Hero2">
+        </g>
+        <g id="Notif">
+        </g>
+        <g id="Nav">
+        </g>
+    </g>
+</svg>
