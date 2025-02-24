@@ -74,7 +74,7 @@ export default function hero() {
                     <div className="z-10 relative h-[15rem]">
                         {/*<div className="absolute top-1/1 left-1/2 -translate-x-1/2 -translate-y-1/1 h-[20vh] w-screen overflow-visible">
                             */}
-                        <div className="relative -top-[14rem] left-1/2 -translate-x-1/2 bg-[url(/linetrace_bp.svg)] bg-no-repeat bg-auto bg-center bg-[left_-240px_center] h-[90rem] aspect-video">
+                        <div className="relative -top-[14rem] left-1/2 -translate-x-1/2 bg-[url(/linetrace_bp.svg)] bg-no-repeat bg-auto bg-center bg-[left_-340px_center] h-[90rem] aspect-video">
                             &nbsp;
                         </div>
                         {/*</div>*/}
