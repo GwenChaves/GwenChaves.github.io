@@ -57,7 +57,7 @@ export default function hero() {
                     {/*Notif bar*/}
                     <div className="z-40 relative justify-self-center rounded-full mt-10 mb-4 px-3 py-1 backdrop-blur-sm bg-teal-400/10 text-xl text-gray-200 font-ButtonFont ring-1 ring-teal-400/30 hover:ring-teal-400/90">
                         Currently seeking employment.{' '}
-                        <a href="/BenResume2024.pdf" target="blank" className="text-teal-400">
+                        <a href="/Resume2025.pdf" target="blank" className="text-teal-400">
                             <span aria-hidden="true" className="absolute inset-0" />
                             View Resume <span aria-hidden="true">&rarr;</span>
                         </a>
@@ -105,7 +105,8 @@ export default function hero() {
                     </p>
                 </div>
 
-                <div className="z-40 relative -bottom-80 left-1/2 -translate-x-1/2 mb-0 bg-[url(/ScrollPrompt.svg)] bg-no-repeat bg-contain bg-center w-[5rem] aspect-square animate-bounce">
+                {/*Scroll Indicator*/}
+                <div className="hidden z-40 relative -bottom-80 left-1/2 -translate-x-1/2 mb-0 bg-[url(/ScrollPrompt.svg)] bg-no-repeat bg-contain bg-center w-[5rem] aspect-square animate-bounce">
 
                 </div>
 
